@@ -1,0 +1,18 @@
+body{
+    margin-top:20px;
+    background: #f6f9fc;
+}
+.text-theme {
+    color: #4C9A2A !important;
+    text-align: center;
+}
+.card-img-top {
+  width: 30%;
+  height: 30%;
+}
+
+.btn-theme {
+    background-color:#1E5631;
+    border-color: #139946;
+    color: #fff;
+}
