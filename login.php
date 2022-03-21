@@ -47,7 +47,8 @@
                         <div class="row justify-content-center">
                             <div class="col-lg-5">
                                 <div class="card shadow-lg border-0 rounded-lg mt-5">
-                                <div class="card-header"><center><img src="images/clsu-logo.png" class="avatar" height="30%" width="30%"></center>
+                                <div class="card-header bg-success"><center><img src="images/clsu-logo.png" class="avatar" height="30%" width="30%">
+                                <h2 style="color: white;">Language and Literature <br> e-Learning</h2></center>
                                     </div>
                                     <div class="card-body">
                                         <form method="POST">
@@ -58,6 +59,9 @@
                                             <input type="submit" class="btn btn-success float-right" name="submit_admin" value="Login">
                                           </div>
                                         </form>
+                                    </div>
+                                    <div class="card-footer text-center">
+                                        <div class="small">Copyright © 2022. All rights reserve!</div>
                                     </div>
                                 </div>
                             </div>
