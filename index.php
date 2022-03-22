@@ -3,7 +3,7 @@
 date_default_timezone_set("Asia/Manila");
 session_start();
 if(!isset($_SESSION['logged'])){
-  header("location: login.php");
+  header("location: public.php");
 }
 include ('include/connect.php');
 $id=$_SESSION['id'];
